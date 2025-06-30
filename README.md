@@ -6,7 +6,7 @@ I'm a Master of Business Informatics student at the University of Canberra with 
 
 ### 🔧 What I'm Currently Working On
 
-* [cite_start]🎓 Completing my Master in Business Informatics. [cite: 36]
+* 🎓 Completing my Master in Business Informatics.
 * 📊 Building my data analysis skills with personal projects using SQL.
 * 🌱 Learning about data governance frameworks and Agile methodologies.
 
@@ -19,7 +19,7 @@ I'm a Master of Business Informatics student at the University of Canberra with 
 
 ### 📫 How to Reach Me
 
-* [cite_start]**Email:** [keesguerra@gmail.com](mailto:keesguerra@gmail.com) [cite: 15]
-* [cite_start]**LinkedIn:** [linkedin.com/in/keesguerra](https://www.linkedin.com/in/keesguerra/) [cite: 15]
+* **Email:** keesguerra@gmail.com
+* **LinkedIn:** linkedin.com/in/keesguerra
 
 ---
